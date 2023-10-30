@@ -17,7 +17,7 @@
 
 For this project, we expect you to look at these concepts:
 
-* [Right-engineering, right-documenting](https://intranet.alxswe.com/concepts/6)
+* [Right-engineering, right-documenting](./pages/page_0.html)
 * [Source code management](https://intranet.alxswe.com/concepts/22)
 * [Git and Github cheat sheet - Everything in less than 30 seconds](https://intranet.alxswe.com/concepts/57)
 * [Authenticating Git](https://intranet.alxswe.com/concepts/100035)
